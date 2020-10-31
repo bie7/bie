@@ -1,1 +1,1 @@
-# bie-cmd
+# bie
